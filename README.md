@@ -103,13 +103,10 @@ Size after clear: 0
 - All heap balancing logic (percolate up/down) is written from scratch
 
 - Clear separation of heap logic and index mapping for educational clarity
-# 👨‍💻 Author
+## Credits
 
-Utsav Patel
-
-Email:usp@sfu.ca
-
-Simon Fraser University
+This project is adapted from the CMPT 295 (Intro. to Computer Systems) assignment at Simon Fraser University, Fall 2024.
+Code structure and assignment specification provided by course instructors.
 # License
 
 This project is open for educational and demonstration purposes. Attribution is appreciated!
